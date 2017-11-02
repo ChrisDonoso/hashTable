@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @author christopherdonoso
  */
 
-public class Hw01 {
+public class hashTable {
 
     /**
      * @param args the command line arguments

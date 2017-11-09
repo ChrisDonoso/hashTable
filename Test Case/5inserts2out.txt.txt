@@ -1,0 +1,8 @@
+i homer
+i marge
+i nelson
+i gloria
+i duffman
+d marge
+d kyle
+p
